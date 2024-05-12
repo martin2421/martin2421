@@ -1,7 +1,6 @@
 <h1 align="left">Hi! I'm Martin :)</h1>
 <h3 align="left">I'm a passionate front-end developer and excited to start my journey in cybersecurity!</h3>
 
-<br>
 
 - 🔭 I’m currently working on **Google Cybersecurity Professional Certificate**
 
