@@ -2,9 +2,9 @@
 <h3 align="left">I'm a passionate front-end developer and excited to start my journey in cybersecurity!</h3>
 
 
-- 🔭 I’m currently working on **Google Cybersecurity Professional Certificate**
+- 🔭 I’m currently working on **Google Cybersecurity Professional Certificate** and **CompTIA Security+**
 
-- 🌱 I’m currently learning **Cybersecurity Frameworks and Ethical Hacking**
+- 🌱 I’m currently learning **Ethical Hacking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/martin2421](https://github.com/martin2421)
 
