@@ -1,7 +1,7 @@
 <h1 align="left">Hi! I'm Martin :)</h1>
 <h3 align="left">I'm a passionate front-end developer and excited to start my journey in cybersecurity!</h3>
 
-
+<br><br>
 
 - 🔭 I’m currently working on **Google Cybersecurity Professional Certificate**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **martinatanaciojr@gmail.com**
 
-- 📄 Know about my experiences [Drive](https://drive.google.com/file/d/1fI3sDk5MNqs3szEAI1s2gaC6sr0ztsLE/view?usp=drive_link)
+- 📄 Know about my experiences [link to resume](https://drive.google.com/file/d/1fI3sDk5MNqs3szEAI1s2gaC6sr0ztsLE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
