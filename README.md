@@ -1,16 +1,16 @@
 <h1 align="left">Hi! I'm Martin :)</h1>
-<h3 align="left">I'm a passionate front-end developer and excited to start my journey in cybersecurity!</h3>
+<h3 align="left">Passionate Front-End Developer | Aspiring Cybersecurity Professional</h3>
 
 
 - 🔭 I’m currently working on **Google Cybersecurity Professional Certificate** and **CompTIA Security+**
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Ethical Hacking** and **JS Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/martin2421](https://github.com/martin2421)
+- 👨‍💻 All of my projects are available at: [https://github.com/martin2421](https://github.com/martin2421)
 
-- 📫 How to reach me **martinatanaciojr@gmail.com**
+- 📫 You can reach me at: **martinatanaciojr@gmail.com**
 
-- 📄 Know about my experiences [link to resume](https://drive.google.com/file/d/1fI3sDk5MNqs3szEAI1s2gaC6sr0ztsLE/view?usp=drive_link)
+- 📄 Know about my experiences: [link to resume](https://drive.google.com/file/d/1fI3sDk5MNqs3szEAI1s2gaC6sr0ztsLE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
