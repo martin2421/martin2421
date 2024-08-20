@@ -2,15 +2,13 @@
 <h3 align="left">Passionate Front-End Developer | Aspiring Cybersecurity Professional</h3>
 
 
-- 🔭 I’m currently working on **Front-End Freelancing** and **TryHackMe Labs**
+- 🔭 I’m currently working as a **Front-End Freelancer**
 
 - 🌱 I’m currently learning **JS Frameworks** and **Ethical Hacking**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/martin2421](https://github.com/martin2421)
 
 - 📫 You can reach me at: **martinatanaciojr@gmail.com**
-
-- 📄 Know about my experiences: [link to resume](https://drive.google.com/file/d/1fI3sDk5MNqs3szEAI1s2gaC6sr0ztsLE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
