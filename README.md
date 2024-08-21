@@ -2,9 +2,9 @@
 <h3 align="left">Passionate Front-End Developer | Aspiring Cybersecurity Professional</h3>
 
 
-- 🔭 I’m currently working as a **Front-End Freelancer**
+- 🔭 I’m currently working as a **Front-End Developer (Freelance)**
 
-- 🌱 I’m currently learning **JS Frameworks** and **Ethical Hacking**
+- 🌱 I’m currently learning **SOC Analyst Tools and Best Practices**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/martin2421](https://github.com/martin2421)
 
