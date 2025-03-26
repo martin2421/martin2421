@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a **Front-End Developer (Freelance)**
 
-- 🌱 I’m currently learning **SOC Analyst Tools and Best Practices**
+- 🌱 I’m currently learning **SOC Analyst Tools and Penetration Testing**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/martin2421](https://github.com/martin2421)
 
