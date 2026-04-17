@@ -1,10 +1,10 @@
 <h1 align="left">Hi! I'm Martin :)</h1>
-<h3 align="left">Passionate Front-End Developer | Aspiring Cybersecurity Professional</h3>
+<h3 align="left">Passionate about Offensive Security</h3>
 
 
-- 🔭 I’m currently working as a **Front-End Developer (Freelance)**
+- 🔭 I’m currently working as an **Application Penetration Tester**
 
-- 🌱 I’m currently learning **SOC Analyst Tools and Penetration Testing**
+- 🌱 I’m currently learning **Adversarial Emulation and Cloud Pentesting**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/martin2421](https://github.com/martin2421)
 
