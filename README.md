@@ -2,9 +2,9 @@
 <h3 align="left">Passionate about Offensive Security</h3>
 
 
-- 🔭 I’m currently working as an **Application Penetration Tester**
+- 💼 I’m currently working as an **Application Penetration Tester**
 
-- 🌱 I’m currently learning **Adversarial Emulation and Cloud Pentesting**
+- 📚 I’m currently learning **AWS and Cloud Pentesting**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/martin2421](https://github.com/martin2421)
 
